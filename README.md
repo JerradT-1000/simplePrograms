@@ -3,6 +3,8 @@ small programs of varying language I made while learning to code
 
 ancientSquareRoot - the ancient Babylonians had an interesting way of computing square root. This program is a fun way to learn how.
 
+arrayMax - finds the largest number in an array
+
 changeCount - counts out number of what coins are needed to make change for amount given by user
 
 circumferenceCalculator - calculates circumference by user given radius
