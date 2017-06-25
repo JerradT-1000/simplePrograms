@@ -19,6 +19,8 @@ farenheitConvert - converts farenheit to celcius and kelvins
 
 findGCD - finds greatest common divisor of two numbers given by user
 
+multiplicationTable - prints multiples of given numbers
+
 plinko - the price is right game
 
 storeSales - compares sales from multiple stores
