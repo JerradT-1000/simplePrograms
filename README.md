@@ -11,6 +11,8 @@ circumferenceCalculator - calculates circumference by user given radius
 
 convertMeter - converts meters to ft and inches
 
+convertToBinary - converts base 10 to binary
+
 currencyConvert - converts UKP to USD and vice versa
 
 findGCD - finds greatest common divisor of two numbers given by user
