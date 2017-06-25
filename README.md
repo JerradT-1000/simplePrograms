@@ -15,6 +15,8 @@ convertToBinary - converts base 10 to binary
 
 currencyConvert - converts UKP to USD and vice versa
 
+farenheitConvert - converts farenheit to celcius and kelvins
+
 findGCD - finds greatest common divisor of two numbers given by user
 
 plinko - the price is right game
