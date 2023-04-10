@@ -8,10 +8,10 @@ namespace ...
              *  is less than one dollar. Output the coins given as change, 
              *  using quarters, dimes, nickels, and pennies. Usethe fewest
              *  coins possible. For example, if the item cost 17 cents,
-             *  the change would bethree quarters, one nickel, and three pennies. **/
+             *  the change would be three quarters, one nickel, and three pennies. **/
                
             Console.WriteLine("Enter the price of your item less than $1: "); //prompts user to enter price
-            int price = int.Parse(Console.ReadLine()); //pareses out readline to work as an int
+            int price = int.Parse(Console.ReadLine()); //parses out readline to work as an int
             int change = 100 - price;
             int numQ = change / 25;     //identifies what numQ does
             change = change - numQ * 25;
