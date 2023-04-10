@@ -5,7 +5,7 @@ namespace ...
 
         static void Main(string[] args)
        
-            /** The ancient Babylonians used a divide and average method for computing the square rootof a 
+            /** The ancient Babylonians used a divide and average method for computing the square root of a 
              * positive number x. First estimate the square root by some value r; any positive estimate will do. 
              * Then compute the quotient, x/r. Averaging r and x/r gives a better estimate, so continue the 
              * process, dividing and averaging until the estimates agree to the desired number of places. 
